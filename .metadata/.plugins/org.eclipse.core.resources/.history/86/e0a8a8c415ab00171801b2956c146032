@@ -1,0 +1,14 @@
+package dat.edu.basic;
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("HelloWorld");
+		char c = 65;
+		System.out.println(c);
+	}	
+}
+abstract class A{
+	void a(){};
+	void b(){};
+	void c(){};
+}

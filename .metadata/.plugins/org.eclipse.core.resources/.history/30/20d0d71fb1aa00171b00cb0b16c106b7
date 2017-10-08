@@ -1,0 +1,10 @@
+package dat.edu.basic;
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("HelloWorld");
+		char c = 65;
+		int b = parseInt(c);
+		System.out.println(c);
+	}	
+}
